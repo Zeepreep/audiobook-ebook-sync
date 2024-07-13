@@ -1,0 +1,2 @@
+2024-07-13 13:54:41,004 ERROR:Failed to parse eBook: module 'ebooklib.epub' has no attribute 'ITEM_DOCUMENT'
+2024-07-13 16:54:42,079 ERROR:Failed to parse eBook: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.

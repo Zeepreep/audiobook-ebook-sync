@@ -1,0 +1,5 @@
+PyQt5
+ebooklib
+pydub
+google-cloud-speech
+mutagen
